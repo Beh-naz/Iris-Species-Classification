@@ -13,20 +13,20 @@
 
 ## Scatterplot matrix.
 
-![](scatterplot matrix.png)
+![](scatterplot_matrix.png)
 
 ## Corrolation matrix
 
-![](correlation matrix.png)
+![](correlation-matrix.png)
 
 ## Decision tree
 
-![](Decision Tree.png)
+![](Decision_Tree.png)
 
 ## Decision boundary in decision tree
 
-![](Boundary in Decision Tree.png)
+![](Boundary_in_Decision_Tree.png)
 
 ## Decision boundary in random forest
 
-![](Boundary in Random Forest.png)
+![](Boundary_in_Random_Forest.png)

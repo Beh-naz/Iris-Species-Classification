@@ -17,7 +17,7 @@
 
 ## Corrolation matrix
 
-![](correlation-matrix.png)
+![](correlation_matrix.png)
 
 ## Decision tree
 

@@ -13,7 +13,7 @@ This project focuses on the classification of Iris species (Setosa, Versicolor, 
 
 ## Key Highlights
 
-* Extensive Exploratory Data Analysis (EDA) including histograms, box plots, and scatter plots to understand data distribution and inter-feature relationships.
+* Extensive Exploratory Data Analysis (EDA) including histograms, box plots, and scatter plots to understand data distribution and inter-feature relationships in the folder [Visualisations](https://github.com/Beh-naz/Iris-Species-Classification/tree/main/Visualisations).
 
 * Implementation of machine learning classifiers:
 - Decision Tree
